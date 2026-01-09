@@ -1,10 +1,10 @@
-# discord.js-v14-dashboard-api-bot-hosting.net 
+# `git clone https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net`
 A basic bot with a dashboard website and API on Bot-Hosting.net
 
 > [!CAUTION]
 > Still in development.
 
-For installation execute `npm install`. Then rename empty-config.json to config.json and fill in the details. To run it on local `npm start`.
+For local installation execute `npm install`. Then rename empty-config.json to config.json and fill in the details. To run it on local use `npm start`.
 
 Slash command on discord `/botserver` -> action
 
