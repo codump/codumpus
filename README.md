@@ -5,15 +5,15 @@ A dashboard bot with website and API on Bot-Hosting.net
 > Still in development.
 
 ## Full installation guide
-Check out our [wiki](https://github.com/codump/codumpus/wiki) for a complete installation guide.
+Check out our [wiki for a complete installation guide](https://github.com/codump/codumpus/wiki).
 
-## Know what I'm doing installation
+## Quick installation
 
 | CMD        | <samp>`git clone https://github.com/codump/codumpus . && npm install`</samp>           |
 | ------------- |:-------------:|
 | **PowerShell**     | **<samp>`git clone https://github.com/codump/codumpus . ; npm install`</samp>** |
 
-Rename empty-config.json to config.json and fill in the details.
+Rename `empty-config.json` to `config.json` and fill in the details.
 
 ## Dependencies
 - Discord.js v14
