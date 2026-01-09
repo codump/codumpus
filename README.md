@@ -1,4 +1,4 @@
-# discord.js-v14-dashboard-api-bot-hosting.net
+# codumpus
 A basic bot with a dashboard website and API on Bot-Hosting.net
 
 > [!CAUTION]
@@ -9,9 +9,9 @@ Will follow later.
 
 ## Know what I'm doing installation
 
-| CMD        | <samp>`git clone https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net && cd discord.js-v14-dashboard-api-bot-hosting.net && npm install`</samp>           |
+| CMD        | <samp>`git clone https://github.com/codump/codumpus && cd codumpus && npm install`</samp>           |
 | ------------- |:-------------:|
-| **PowerShell**     | **<samp>`git clone https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net ; cd discord.js-v14-dashboard-api-bot-hosting.net ; npm install`</samp>** |
+| **PowerShell**     | **<samp>`git clone https://github.com/codump/codumpus ; cd codumpus ; npm install`</samp>** |
 
 Rename empty-config.json to config.json and fill in the details.
 
