@@ -1,0 +1,27 @@
+{
+  "name": "discord.js-v14-dashboard-api-bot-hosting.net",
+  "version": "0.1.1",
+  "description": "A basic bot with a dashboard website and API on Bot-Hosting.net",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "Codump",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net/issues"
+  },
+  "homepage": "https://github.com/codump/discord.js-v14-dashboard-api-bot-hosting.net#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "nodemon": "^3.1.11"
+  }
+}
