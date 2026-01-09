@@ -16,10 +16,10 @@ module.exports = {
 
 		if (member == null) {
 			// No member mention
-			return interaction.reply({ content: `Please post your code with the built in syntax highlighting of discord.`, embeds: [exampleEmbed], ephemeral: false })
+			return interaction.reply({ content: `Please post your code with the built in syntax highlighting of discord.`, embeds: [exampleEmbed] })
 		} else {
 			// With member mention
-			return interaction.reply({ content: `<@${member.user.id}>, please post your code with the built in syntax highlighting of discord.`, embeds: [exampleEmbed], ephemeral: false })
+			return interaction.reply({ content: `<@${member.user.id}>, please post your code with the built in syntax highlighting of discord.`, embeds: [exampleEmbed] })
 		}
 	},
 }
