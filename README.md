@@ -15,7 +15,7 @@ Will follow later.
 
 Rename empty-config.json to config.json and fill in the details.
 
-## Dependancies
+## Dependencies
 - Discord.js v14
 - Express
 - Nodemon (for local start)
