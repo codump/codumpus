@@ -1,11 +1,11 @@
-# Codumpus
+# ♻ Codumpus ♻
 A dashboard bot with website and API on Bot-Hosting.net
 
 > [!CAUTION]
 > Still in development.
 
 ## Full installation guide
-Will follow later.
+Check out our [wiki](https://github.com/codump/codumpus/wiki) for a complete installation guide.
 
 ## Know what I'm doing installation
 
