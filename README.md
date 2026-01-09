@@ -2,7 +2,7 @@
 A basic bot with a dashboard website and API on Bot-Hosting.net
 
 > [!CAUTION]
-> Still in development.
+> Still in development. 
 
 For installation execute `npm install`. Then rename empty-config.json to config.json and fill in the details. To run it on local `npm start`.
 
