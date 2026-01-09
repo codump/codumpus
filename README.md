@@ -21,6 +21,5 @@ Rename empty-config.json to config.json and fill in the details.
 - Nodemon (for local start)
 
 ## Knowledge base
-Slash command on discord `/botserver` -> action
-
-Returning Error: 401 means the botServerId and/or botServerApiKey in the config are incorrect.
+- Slash command on discord `/botserver` -> action
+  - Returning Error: 401 means the botServerId and/or botServerApiKey in the config are incorrect.
