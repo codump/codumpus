@@ -12,11 +12,12 @@ A basic bot with a dashboard website and API on Bot-Hosting.net
 
 Rename empty-config.json to config.json and fill in the details.
 
-Slash command on discord `/botserver` -> action
-
-Returning Error: 401 means the botServerId and/or botServerApiKey in the config are incorrect.
-
 ## Dependancies
 - Discord.js v14
 - Express
 - Nodemon (for local start)
+
+## Knowledge base
+Slash command on discord `/botserver` -> action
+
+Returning Error: 401 means the botServerId and/or botServerApiKey in the config are incorrect.
